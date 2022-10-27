@@ -1,0 +1,5 @@
+FATO VENDA:
+- Uma linha na tabela fato_venda representa uma venda de determinado veículo ocorrido em determinado dia.
+
+FATO LOCAÇÃO:
+- Uma linha na tabela fato_locação representa uma locação de determinado veículo ocorrido em determinado dia.

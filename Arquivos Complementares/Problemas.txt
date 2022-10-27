@@ -1,0 +1,13 @@
+= FATO VENDA:
+- Quantos veículos foram vendidos em determinado período?
+- Qual o modelo de carro que mais foi vendido em determinado período?
+- Quantos veículos de determinado modelo foram vendidos em determinado período?
+- Quantos veículos de determinado fabricante foram vendidos em dete- Quantas vendas determinado funcionário fez em um determinado período?
+
+- FATO LOCAÇÃO:
+- Qual modelo de veículo que mais foi locado em determinado período?
+- Qual a quantidade de veículos locada hoje? E nos últimos meses?
+- Quantos veículos de determinado modelo foram locados em determinado período?
+- Quantos veículos de determinado fabricante foram locados em determinado período?
+- Quanto tempo o veículo ficou locado?
+- Qual a quantidade de veículos com o status 'locado' hoje?
