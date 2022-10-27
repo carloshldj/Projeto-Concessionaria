@@ -1,2 +1,2 @@
 # Projeto-Concessionaria
-Projeto para a disciplina "Sistemas de Apoio a Descisão"
+Projeto para a disciplina "Sistemas de Apoio a Decisão"
