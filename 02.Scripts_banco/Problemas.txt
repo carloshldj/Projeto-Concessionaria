@@ -1,4 +1,4 @@
-= FATO VENDA:
+- FATO VENDA:
 - Quantos veículos foram vendidos em determinado período?
 - Qual o modelo de carro que mais foi vendido em determinado período?
 - Quantos veículos de determinado modelo foram vendidos em determinado período?
