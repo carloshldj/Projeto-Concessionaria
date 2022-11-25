@@ -1,0 +1,2 @@
+-- Scripts para carregar dados do ambiente operacional
+-- para a área de staging

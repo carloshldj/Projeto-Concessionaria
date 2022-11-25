@@ -1,0 +1,2 @@
+-- Scripts para carregar dados da área de staging
+-- para o modelo dimensional
