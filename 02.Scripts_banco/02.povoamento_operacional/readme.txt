@@ -1,1 +1,0 @@
--- Script para povoar o ambiente Operacional
